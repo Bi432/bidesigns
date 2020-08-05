@@ -1,0 +1,2 @@
+# bidesigns
+repository for shop
